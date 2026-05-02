@@ -1,22 +1,30 @@
 ## Installation 🚀
 
 ```
-apt update
+• apt update
 
-apt install git -y
+• apt install git -y
 
-git clone https://github.com/notpieyt011-ui/hvm
+• git clone https://github.com/notpieyt011-ui/hvm
 
-cd hvm
+• cd hvm
 
-apt install unzip -y
+• apt install unzip -y
 
-unzip hvm.zip
+• unzip hvm.zip
 
-sudo apt install python3-pip -y
+• sudo apt install python3-pip -y
 
-pip install -r requirements.txt
+• pip install -r requirements.txt
 
-**Instal & Connect Cloudflair**
-**`HTTP` 'localhost:5000`**
+• INSTALL CLOUDFARE AND SETUP
+   HTTP localhost:5000
 
+• TO RUN PANEL ✨
+
+• python3 hvm.py
+
+## Warning ⚠️ 
+
+To Run HVM Panel want licence Key 🔐 
+To Get KEY DM @pranav_gamerzz at Discord ✅
