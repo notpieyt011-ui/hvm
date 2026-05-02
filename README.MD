@@ -1,2 +1,4 @@
 ## Installation 🚀
-``` ggggggggg
+
+```
+apt update
