@@ -1,6 +1,6 @@
 Installation 🚀
 
-```apt update```
+``apt update``
 ```apt install git -y```
 ```git clone https://github.com/silentstore/hvm```
 ```cd hvm```
